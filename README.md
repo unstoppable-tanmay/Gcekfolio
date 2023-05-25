@@ -6,6 +6,7 @@ This is project is being deverloped by the members of CodeBreakers, Coding Club 
 ## Routes Structure
 
 - Home `/`
+
   - About `/about`
   - Contact `/contact`
   - FAQ `/faq`
@@ -16,13 +17,14 @@ This is project is being deverloped by the members of CodeBreakers, Coding Club 
   - Books `/library/books`
   - Notes `/library/notes`
   - Question `/library/question`
-  
 - Contest `/contest`
+
   - Annoucenments `/contest/annoucements`
   - Results `/contest/results`
   - Champions(Golden Walls) `/contest/champions`
 
 - Clubs `/clubs`
+
   - Codebreakers `/clubs/codebreakers`
   - kilobots `/clubs/kilobots`
   - clixographers `/clubs/clixographers`
@@ -36,20 +38,17 @@ This is project is being deverloped by the members of CodeBreakers, Coding Club 
 - Events `/events`
   - Live Events `/events/live`
   - Events Members `/events/members`
-  
 - Projects `/projects`
   - Pages(By Branch) `/projects/:branch`
   - Reasearch papers(seminars) `/projects/seminars/:id`
-  
 - Hostel - /hostel
   - Pages(Divided By hostels) `/hostel/:hostel`
   - per hostel members and details `/hostel/members/:hostel/`
-  
 - Social Handle(Confession) `/confession`
 - Gallery `/gallery`
 - Alumni `/alumni`
-  
------
+
+---
 
 ## Instructions to run the project
 
@@ -66,6 +65,7 @@ cd gcekfolio
 ```
 
 Install dependencies:
+
 > please use yarn instead of npm
 
 ```bash
@@ -78,7 +78,7 @@ Run the project:
 yarn dev
 ```
 
------
+---
 
 ## Contribution Guidelines
 
