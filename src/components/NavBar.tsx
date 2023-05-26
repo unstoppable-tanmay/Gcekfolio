@@ -1,6 +1,6 @@
 import React from 'react';
 import { MdOutlineLightMode } from 'react-icons/md';
-import PurpleButton from '../PurpleButton';
+import PurpleButton from './PurpleButton';
 
 const NavBar = () => {
   return (
