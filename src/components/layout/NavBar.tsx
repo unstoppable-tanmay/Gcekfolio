@@ -1,8 +1,6 @@
-'use client';
-
 import React from 'react';
 import { MdOutlineLightMode } from 'react-icons/md';
-import PurpleButton from '../Utils/PurpleButton';
+import PurpleButton from '../PurpleButton';
 
 const NavBar = () => {
   return (
