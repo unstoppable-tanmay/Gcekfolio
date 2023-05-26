@@ -6,6 +6,15 @@ module.exports = {
     './app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+    colors: {
+      primary: '#8C8CF5',
+      text_button: '#FFFFFF',
+      white: '#FFFFFF',
+    },
+    fontFamily: {
+      sans: ['Inter', 'sans-serif'],
+      poppins: ['Poppins', 'sans-serif'],
+    },
     extend: {},
   },
   plugins: [],
