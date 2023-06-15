@@ -11,8 +11,7 @@ const NavBar = () => {
           <p className='text-primary'>Folio</p>
         </div>
         <ul className='flex gap-8'>
-          <li className='text-primary'>Home</li>
-          <li>Library</li>
+figma          <li>Library</li>
         </ul>
       </div>
       <ul className='flex items-center gap-8'>

@@ -10,10 +10,13 @@ module.exports = {
       primary: '#8C8CF5',
       text_button: '#FFFFFF',
       white: '#FFFFFF',
+      black: '#000000',
     },
     fontFamily: {
       sans: ['Inter', 'sans-serif'],
       poppins: ['Poppins', 'sans-serif'],
+      Tahoma: ['Tahoma', 'sans-serif'],
+      Montserrat: ['Montserrat', 'sans-serif'],
     },
     extend: {},
   },
