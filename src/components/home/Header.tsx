@@ -15,10 +15,10 @@ const Header = () => {
           className='absolute left-[50%] top-[50%] h-[80%] w-[100%] translate-x-[-50%] translate-y-[-50%] rounded-3xl object-contain '
         />
         <div className='z-10 flex flex-col gap-2'>
-          <h1 className='text-center text-8xl font-bold tracking-wider font-Tahoma text-white'>
+          <h1 className='text-center font-Tahoma text-8xl font-bold tracking-wider text-white'>
             We Are Engineers
           </h1>
-          <h2 className='text-center text-3xl font-semibold tracking-wider font-Montserrat text-white'>
+          <h2 className='text-center font-Montserrat text-3xl font-semibold tracking-wider text-white'>
             Bridging the gap between imagination and reality
           </h2>
         </div>
