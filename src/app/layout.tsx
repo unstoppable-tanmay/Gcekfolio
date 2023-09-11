@@ -17,7 +17,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang='en'>
-      <body className={inter.className}>
+      <body className='relative w-screen overflow-x-hidden bg-background'>
         <NavBar />
         <div>{children}</div>
       </body>

@@ -8,3 +8,7 @@
   font-family: tahoma;
   src: url(../../assets/fonts/tahoma.ttf);
 }
+
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
