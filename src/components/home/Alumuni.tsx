@@ -2,7 +2,7 @@ import React from 'react';
 import Image from 'next/image';
 import PurpleButton from '../PurpleButton';
 
-import alumni from '../../../assets/images/alumuni/alumni.png';
+const alumni = require('../../../assets/images/alumuni/alumni.png');
 
 const Alumuni = () => {
   return (
@@ -13,7 +13,7 @@ const Alumuni = () => {
       <div className='relative mt-5 flex h-[500px] w-[85vw] flex-col items-center justify-evenly md:w-[70vw]'>
         <Image
           className='z-10 rounded-xl'
-          src={'/assets/images/alumuni/alumni.png'}
+          src={alumni}
           alt=''
           fill={true}
           style={{ objectFit: 'cover' }}

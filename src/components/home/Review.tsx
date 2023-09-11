@@ -1,7 +1,8 @@
 import React from 'react';
 import Image from 'next/image';
 import PurpleButton from '../PurpleButton';
-import review from '../../../assets/images/review/review.gif';
+
+const  review = require('../../../assets/images/review/review.gif');
 
 const Review = () => {
   return (

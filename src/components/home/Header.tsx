@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 
-import headerImage from '../../../assets/images/header/circular_blob_wave.gif';
+const headerImage = require('../../../assets/images/header/circular_blob_wave.gif');
 
 const Header = () => {
   return (
