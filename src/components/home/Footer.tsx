@@ -12,7 +12,7 @@ import { FaGitlab } from 'react-icons/fa';
 
 const Footer = () => {
   return (
-    <div className='flex min-h-[350px] w-screen flex-col items-center justify-around bg-blue p-7 pb-2'>
+    <div className='bg-blue flex min-h-[350px] w-screen flex-col items-center justify-around p-7 pb-2'>
       <div className='flex w-full flex-wrap items-center justify-evenly gap-20 p-10'>
         <div className='flex flex-col items-start gap-1 '>
           <div className='text-[25px] font-medium text-white text-opacity-50'>
