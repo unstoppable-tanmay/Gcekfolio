@@ -13,7 +13,7 @@ const Alumuni = () => {
       <div className='relative mt-5 flex h-[500px] w-[85vw] flex-col items-center justify-evenly md:w-[70vw]'>
         <Image
           className='z-10 rounded-xl'
-          src={alumni}
+          src={'/assets/images/alumuni/alumni.png'}
           alt=''
           fill={true}
           style={{ objectFit: 'cover' }}
