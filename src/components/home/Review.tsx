@@ -2,7 +2,7 @@ import React from 'react';
 import Image from 'next/image';
 import PurpleButton from '../PurpleButton';
 
-const  review = require('../../../assets/images/review/review.gif');
+const review = require('../../../assets/images/review/review.gif');
 
 const Review = () => {
   return (
