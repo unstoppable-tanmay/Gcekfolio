@@ -1901,6 +1901,7 @@ __metadata:
     react-dom: 18.2.0
     react-fast-marquee: ^1.6.0
     react-icons: ^4.8.0
+    smooth-text-rotator: ^0.2.1
     tailwindcss: 3.3.2
     typescript: 5.0.4
   languageName: unknown
@@ -3866,6 +3867,13 @@ __metadata:
   version: 4.2.0
   resolution: "smart-buffer@npm:4.2.0"
   checksum: b5167a7142c1da704c0e3af85c402002b597081dd9575031a90b4f229ca5678e9a36e8a374f1814c8156a725d17008ae3bde63b92f9cfd132526379e580bec8b
+  languageName: node
+  linkType: hard
+
+"smooth-text-rotator@npm:^0.2.1":
+  version: 0.2.1
+  resolution: "smooth-text-rotator@npm:0.2.1"
+  checksum: 33531157097d76b29748f7b5c0bf2367968a2019602369ef3a291f0d179b27336a470a974655422ad0253654a1a4ef4f89c1bc75673991496695a8f37f41741f
   languageName: node
   linkType: hard
 

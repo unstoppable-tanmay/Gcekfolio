@@ -27,6 +27,7 @@
     "react-dom": "18.2.0",
     "react-fast-marquee": "^1.6.0",
     "react-icons": "^4.8.0",
+    "smooth-text-rotator": "^0.2.1",
     "tailwindcss": "3.3.2",
     "typescript": "5.0.4"
   },

@@ -6,7 +6,7 @@ import NavBar from '@/components/NavBar';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Gcekfolio',
+  title: 'The GCEKians',
   description: 'Gcekfolio is a portfolio website for GCEKians',
 };
 

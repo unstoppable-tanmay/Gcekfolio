@@ -19,7 +19,7 @@ const Alumuni = () => {
           style={{ objectFit: 'cover' }}
         />
         <div className='absolute z-20 h-full w-full rounded-xl bg-black bg-opacity-20'></div>
-        <div className='z-20 flex text-[85px] font-bold tracking-widest text-white text-opacity-50 duration-300 hover:text-opacity-70 md:text-[125px] lg:text-[150px]'>
+        <div className='z-20 flex text-[85px] font-bold tracking-wider hover:tracking-widest text-white text-opacity-50 duration-300 hover:text-opacity-70 md:text-[125px] lg:text-[150px]'>
           <div className='-translate-y-16'>A</div>
           <div className='translate-y-14'>L</div>
           <div className='-translate-y-16'>U</div>

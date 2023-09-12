@@ -22,12 +22,12 @@ const NavBar = () => {
         </div>
         <ul className='flex items-center gap-8'>
           <li className='hidden items-center gap-3 md:flex'>
-            <MdOutlineLightMode size={'1.4rem'} />
-            <select className='bg-white py-2 pl-0 pr-2'>
+            {/* <MdOutlineLightMode size={'1.4rem'} /> */}
+            {/* <select className='bg-white py-2 pl-0 pr-2'>
               <option value={'system'}>System</option>
               <option value={'light'}>Light</option>
               <option value={'dark'}>Dark</option>
-            </select>
+            </select> */}
           </li>
           <li>
             <PurpleButton data={`Let's Join`} className='' />
@@ -49,11 +49,11 @@ const NavBar = () => {
           <li className='text-primary'>Home</li>
           <li>Library</li>
         </ul>
-        <select className='bg-white py-2 pl-0 pr-2'>
+        {/* <select className='bg-white py-2 pl-0 pr-2'>
           <option value={'system'}>System</option>
           <option value={'light'}>Light</option>
           <option value={'dark'}>Dark</option>
-        </select>
+        </select> */}
       </div>
     </div>
   );
